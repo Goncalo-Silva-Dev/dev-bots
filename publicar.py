@@ -7,6 +7,7 @@ Corre de 30 em 30 minutos, publica o que houver de novo e termina.
 - Notícias de AI    -> #ai-news
 - Notícias PT       -> #portugal-tech
 - Dica do dia       -> #dicas-rápidas (a partir das 10:00, uma por dia)
+- Curso em destaque -> #cursos-gratuitos (a partir das 13:00, um por dia, de cursos.json)
 - Dica de AI        -> #prompts       (a partir das 16:00, uma por dia)
 
 Variáveis (Secrets do GitHub): DISCORD_TOKEN, GUILD_ID, ANTHROPIC_API_KEY (opcional)
@@ -32,9 +33,11 @@ MODELO_AI = "claude-haiku-5-5"
 BASE = Path(__file__).parent
 STATE_FILE = BASE / "estado.json"
 TIPS_FILE = BASE / "dicas.json"
+CURSOS_FILE = BASE / "cursos.json"
 TZ = ZoneInfo("Europe/Lisbon")
 MAX_POR_FEED = 3
 HORA_DICA = 10
+HORA_CURSO = 13
 HORA_DICA_AI = 16
 
 API = "https://discord.com/api/v10"
@@ -250,13 +253,52 @@ def publicar_dicas(state, canais, forcar=False):
         print(f"[dicas] publicada dica '{tipo}'")
 
 
+# ------------------------------------------------------------------ curso em destaque
+def publicar_curso(state, canais, forcar=False):
+    agora = datetime.datetime.now(TZ)
+    hoje = agora.date().isoformat()
+    if not forcar and (agora.hour < HORA_CURSO or state.get("ultimo_curso") == hoje):
+        return
+    cursos = load_json(CURSOS_FILE, [])
+    canal = find_channel(canais, "cursos-gratuitos")
+    if not cursos or canal is None:
+        print("[curso] sem cursos.json ou canal *cursos-gratuitos")
+        return
+    ordem = state.get("ordem_cursos") or []
+    if not ordem or max(ordem) >= len(cursos):
+        ordem = list(range(len(cursos)))
+        random.shuffle(ordem)
+    c = cursos[ordem.pop(0)]
+    state["ordem_cursos"] = ordem
+
+    enviar(canal, {
+        "title": f"🎓 Curso em destaque: {c['nome']}"[:256],
+        "url": c["url"],
+        "description": c["descricao"],
+        "color": 0x9B59B6,
+        "author": {"name": c["fornecedor"]},
+        "fields": [
+            {"name": "Área", "value": c.get("area", "-"), "inline": True},
+            {"name": "Nível", "value": c.get("nivel", "-"), "inline": True},
+            {"name": "Duração", "value": c.get("duracao", "-"), "inline": True},
+            {"name": "Certificado", "value": c.get("certificado", "-"), "inline": True},
+            {"name": "Preço", "value": "Gratuito ✅", "inline": True},
+        ],
+        "footer": {"text": "Já fizeste este curso? Deixa a tua opinião em #reviews-cursos"},
+    })
+    state["ultimo_curso"] = hoje
+    print(f"[curso] publicado: {c['nome']}")
+
+
 # ------------------------------------------------------------------ main
 def main():
     state = load_json(STATE_FILE, {})
     canais = canais_do_servidor()
     try:
         n = verificar_feeds(state, canais)
-        publicar_dicas(state, canais, forcar=os.environ.get("FORCAR_DICAS") == "1")
+        forcar = os.environ.get("FORCAR_DICAS") == "1"
+        publicar_dicas(state, canais, forcar=forcar)
+        publicar_curso(state, canais, forcar=forcar)
         print(f"Feito: {n} notícias/cursos novos.")
     finally:
         STATE_FILE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
