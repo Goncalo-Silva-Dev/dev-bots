@@ -1,6 +1,7 @@
 {
  "vistos": {
   "https://www.freecodecamp.org/news/rss/": [
+   "6af88630044134836d5c4f7d",
    "6af7069e2028f50f83240511",
    "6af6f326f94aa3564f351d31",
    "6af6ea1b6758a8ccb76659d6",
@@ -32,13 +33,17 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50499017",
+   "https://news.ycombinator.com/item?id=50497009",
+   "https://news.ycombinator.com/item?id=50496976",
+   "https://news.ycombinator.com/item?id=50496602",
    "https://news.ycombinator.com/item?id=50493904",
+   "https://news.ycombinator.com/item?id=50440709",
    "https://news.ycombinator.com/item?id=50493251",
    "https://news.ycombinator.com/item?id=50493062",
    "https://news.ycombinator.com/item?id=50491423",
    "https://news.ycombinator.com/item?id=50489641",
    "https://news.ycombinator.com/item?id=50484658",
-   "https://news.ycombinator.com/item?id=50440709",
    "https://news.ycombinator.com/item?id=50490593",
    "https://news.ycombinator.com/item?id=50487185",
    "https://news.ycombinator.com/item?id=50474959",
@@ -118,6 +123,8 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1033909",
+   "https://www.theverge.com/?p=1033898",
    "https://www.theverge.com/?p=1032500",
    "https://www.theverge.com/?p=1032907",
    "https://www.theverge.com/?p=1033844",
@@ -831,6 +838,11 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1152918",
+   "https://pplware.sapo.pt/?p=1152876",
+   "https://pplware.sapo.pt/?p=1152896",
+   "https://pplware.sapo.pt/?p=1152729",
+   "https://pplware.sapo.pt/?p=1152859",
    "https://pplware.sapo.pt/?p=1152866",
    "https://pplware.sapo.pt/?p=1152868",
    "https://pplware.sapo.pt/?p=1152921",
@@ -889,6 +901,11 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/poucos-sabem-mas-ha-um-truque-genial-que-permite-partilhar-o-wi-fi-em-segundos-sem-ter-de-dizer-a-palavra-passe/",
+   "https://4gnews.pt/google-mensagens-vai-finalmente-resolver-um-dos-problemas-mais-chatos-da-aplicacao/",
+   "https://4gnews.pt/iphone-air-2-aparece-em-nova-imagem-e-ha-uma-mudanca-que-salta-a-vista/",
+   "https://4gnews.pt/steam-recebeu-3-novos-jogos-gratis-e-ha-uma-bela-surpresa-para-quem-gosta-de-rpg/",
+   "https://4gnews.pt/portugal-vai-ter-uma-nova-proibicao-sobre-inteligencia-artificial-ja-a-2-de-dezembro-e-muitos-ainda-nao-sabem/",
    "https://4gnews.pt/cinema-em-casa-a-preco-de-saldo-xiaomi-tv-f-65-esta-por-menos-de-350-na-amazon/",
    "https://4gnews.pt/google-wallet-recebeu-finalmente-uma-das-funcionalidades-mais-aguardadas-do-ano/",
    "https://4gnews.pt/a-minha-proxima-compra-ikea-lanca-acessorio-de-4-99-euros-que-e-perfeito-para-quem-gosta-de-estar-no-sofa/",
