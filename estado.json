@@ -33,6 +33,9 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50507303",
+   "https://news.ycombinator.com/item?id=50506719",
+   "https://news.ycombinator.com/item?id=50506180",
    "https://news.ycombinator.com/item?id=50502988",
    "https://news.ycombinator.com/item?id=50501594",
    "https://news.ycombinator.com/item?id=50500963",
@@ -131,6 +134,10 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1033984",
+   "https://www.theverge.com/?p=1033620",
+   "https://www.theverge.com/?p=1033968",
+   "https://www.theverge.com/?p=1033895",
    "https://www.theverge.com/?p=1033432",
    "https://www.theverge.com/?p=1033948",
    "https://www.theverge.com/?p=1033943",
@@ -184,6 +191,7 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1033984",
    "https://www.theverge.com/?p=1033943",
    "https://www.theverge.com/?p=1032907",
    "https://www.theverge.com/?p=1033781",
@@ -818,6 +826,7 @@
    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
   ],
   "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=150": [
+   "https://news.ycombinator.com/item?id=50507303",
    "https://news.ycombinator.com/item?id=50493251",
    "https://news.ycombinator.com/item?id=50488769",
    "https://news.ycombinator.com/item?id=50486748",
@@ -829,6 +838,7 @@
    "https://news.ycombinator.com/item?id=50475713",
    "https://news.ycombinator.com/item?id=50474883",
    "https://news.ycombinator.com/item?id=50474311",
+   "https://news.ycombinator.com/item?id=50463399",
    "https://news.ycombinator.com/item?id=50458900",
    "https://news.ycombinator.com/item?id=50457164",
    "https://news.ycombinator.com/item?id=50452455",
@@ -852,6 +862,11 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1152903",
+   "https://pplware.sapo.pt/?p=1152754",
+   "https://pplware.sapo.pt/?p=1152973",
+   "https://pplware.sapo.pt/?p=1152970",
+   "https://pplware.sapo.pt/?p=1152944",
    "https://pplware.sapo.pt/?p=1152966",
    "https://pplware.sapo.pt/?p=1152959",
    "https://pplware.sapo.pt/?p=1152972",
@@ -925,6 +940,13 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/apple-responde-finalmente-aos-oculos-inteligentes-ray-ban-da-meta-ja-em-2027-tudo-o-que-ja-sabemos/",
+   "https://4gnews.pt/hyundai-kauai-2026-ensaio/",
+   "https://4gnews.pt/eletricidade-falha-a-17-e-18-de-novembro-em-portugal-ve-locais-e-horarios/",
+   "https://4gnews.pt/uso-o-waze-ha-anos-mas-estas-2-funcionalidades-do-apple-maps-estao-a-fazer-me-mudar-de-ideias/",
+   "https://4gnews.pt/action-lanca-auriculares-por-99-centimos-com-funcionalidade-muito-rara-nesta-faixa-de-preco/",
+   "https://4gnews.pt/muitos-desconhecem-mas-este-apoio-da-seguranca-social-para-recibos-verdes-paga-ate-100-dos-rendimentos/",
+   "https://4gnews.pt/adeus-capsulas-maquina-de-cafe-da-cecotec-esta-ao-melhor-preco-antes-da-black-friday/",
    "https://4gnews.pt/minisserie-de-3-episodios-baseada-numa-historia-real-ja-e-uma-das-mais-vistas-da-netflix-em-portugal/",
    "https://4gnews.pt/agua-falha-a-16-17-18-19-e-20-de-novembro-em-portugal-ve-todos-os-locais-e-as-horas/",
    "https://4gnews.pt/afinal-o-que-e-um-bom-telemovel-qualidade-preco-em-2026/",
@@ -1074,7 +1096,6 @@
  ],
  "ultima_dica_geral": "2026-11-15",
  "ordem_ai": [
-  5,
   13,
   0,
   1,
@@ -1087,7 +1108,7 @@
   2,
   4
  ],
- "ultima_dica_ai": "2026-11-14",
+ "ultima_dica_ai": "2026-11-15",
  "ordem_cursos": [
   14,
   7,
