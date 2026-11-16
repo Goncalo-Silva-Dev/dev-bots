@@ -33,8 +33,10 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50509411",
    "https://news.ycombinator.com/item?id=50507303",
    "https://news.ycombinator.com/item?id=50506719",
+   "https://news.ycombinator.com/item?id=50463399",
    "https://news.ycombinator.com/item?id=50506180",
    "https://news.ycombinator.com/item?id=50502988",
    "https://news.ycombinator.com/item?id=50501594",
@@ -84,6 +86,7 @@
    "https://news.ycombinator.com/item?id=50438261"
   ],
   "https://feeds.arstechnica.com/arstechnica/index": [
+   "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
    "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
    "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
    "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
@@ -134,6 +137,9 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1034013",
+   "https://www.theverge.com/?p=1034006",
+   "https://www.theverge.com/?p=1033999",
    "https://www.theverge.com/?p=1033984",
    "https://www.theverge.com/?p=1033620",
    "https://www.theverge.com/?p=1033968",
@@ -191,6 +197,7 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1033999",
    "https://www.theverge.com/?p=1033984",
    "https://www.theverge.com/?p=1033943",
    "https://www.theverge.com/?p=1032907",
@@ -524,6 +531,8 @@
    "https://huggingface.co/blog/transformers-backend-sglang"
   ],
   "https://openai.com/news/rss.xml": [
+   "https://openai.com/index/step-toward-defining-the-standard-model",
+   "https://openai.com/index/our-new-blog-for-science",
    "https://openai.com/index/introducing-chatgpt-wallet",
    "https://openai.com/business/customer-stories/shield",
    "https://openai.com/business/customer-stories/amplitude",
@@ -566,8 +575,8 @@
    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "https://openai.com/index/lifeval",
-   "https://openai.com/index/qodo-codex-plugin",
    "https://openai.com/index/dan-driscoll-joins-openai",
+   "https://openai.com/index/qodo-codex-plugin",
    "https://openai.com/index/helping-websites-express-ai-training-preferences",
    "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
    "https://openai.com/index/fair-use-benefits-everyone",
@@ -623,8 +632,8 @@
    "https://openai.com/index/block-ai-powered-security",
    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
    "https://openai.com/index/higgsfield-longer-videos-voice",
-   "https://openai.com/index/sophos",
    "https://openai.com/index/asana-browser-agent",
+   "https://openai.com/index/sophos",
    "https://openai.com/index/oracle",
    "https://openai.com/index/pollo-ai",
    "https://openai.com/index/legalon-halves-codex-costs",
@@ -648,8 +657,8 @@
    "https://openai.com/index/introducing-gpt-6-1-sol",
    "https://openai.com/index/devday-2026-recap",
    "https://openai.com/index/introducing-dots",
-   "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
    "https://openai.com/index/how-we-will-do-better-for-australia",
+   "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
    "https://openai.com/index/lenfest-ai-collaborative-expansion",
    "https://openai.com/form/codex-originals",
    "https://openai.com/index/basis-tax-workbook-with-astra",
@@ -660,8 +669,8 @@
    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
    "https://openai.com/index/invideo-builds-with-gpt-6-astra",
    "https://openai.com/index/sam-altman-un-security-council-remarks",
-   "https://openai.com/index/ringg",
    "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "https://openai.com/index/ringg",
    "https://openai.com/index/introducing-mentalhealthbench",
    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
    "https://openai.com/index/airbnb-gpt-6-astra",
@@ -670,8 +679,8 @@
    "https://openai.com/index/introducing-gpt-6-sol-and-luna",
    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
    "https://openai.com/index/priorities-principles-third-party-assessments",
-   "https://openai.com/index/advisory-group-on-mathematics-and-ai",
    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "https://openai.com/index/advisory-group-on-mathematics-and-ai",
    "https://openai.com/index/building-standards-next-phase-ai",
    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
    "https://openai.com/index/v7",
@@ -692,8 +701,8 @@
    "https://openai.com/index/put-data-to-work",
    "https://openai.com/index/introducing-chatgpt-financial-services",
    "https://openai.com/index/expanding-ai-access-us-government",
-   "https://openai.com/index/introducing-gpt-live-1-in-the-api",
    "https://openai.com/index/introducing-the-agents-api",
+   "https://openai.com/index/introducing-gpt-live-1-in-the-api",
    "https://openai.com/index/ai-policy-window",
    "https://openai.com/index/gpt-6-astra-next-generation-work",
    "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
@@ -757,11 +766,11 @@
    "https://openai.com/index/responsible-ai-infrastructure-texas",
    "https://openai.com/index/model-ml",
    "https://openai.com/index/building-an-ai-native-finance-function",
-   "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+   "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
    "https://openai.com/index/virgin-atlantic/chatgpt-work",
-   "https://openai.com/index/zapier",
    "https://openai.com/index/premium-seats-chatgpt-business",
+   "https://openai.com/index/zapier",
    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
    "https://openai.com/index/hsp-gruppe",
    "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -801,14 +810,14 @@
    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
    "https://openai.com/index/unlocking-self-improvement-gpt-red",
    "https://openai.com/index/managing-ai-investments-in-agentic-era",
-   "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
    "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+   "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
    "https://openai.com/index/deutsche-telekom",
    "https://openai.com/academy/getting-started",
    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-   "https://openai.com/index/gpt-5-6",
-   "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
    "https://openai.com/index/bio-bug-bounty",
+   "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "https://openai.com/index/gpt-5-6",
    "https://openai.com/index/government-national-security-partnerships",
    "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
    "https://openai.com/index/k-12-educators-practical-skills",
@@ -821,9 +830,7 @@
    "https://openai.com/index/genebench-pro/case-studies",
    "https://openai.com/index/mapping-ai-jobs-transition-eu",
    "https://openai.com/index/hp-frontier-partnership",
-   "https://openai.com/index/previewing-gpt-5-6-sol",
-   "https://openai.com/index/how-agents-are-transforming-work",
-   "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+   "https://openai.com/index/previewing-gpt-5-6-sol"
   ],
   "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude&points=150": [
    "https://news.ycombinator.com/item?id=50507303",
@@ -862,6 +869,9 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1153050",
+   "https://pplware.sapo.pt/?p=1152999",
+   "https://pplware.sapo.pt/?p=1152976",
    "https://pplware.sapo.pt/?p=1152903",
    "https://pplware.sapo.pt/?p=1152754",
    "https://pplware.sapo.pt/?p=1152973",
@@ -940,6 +950,8 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/ha-milhares-de-portugueses-que-podem-ter-internet-starlink-ilimitada-por-apenas-5-80-euros-por-mes/",
+   "https://4gnews.pt/muitos-portugueses-esquecem-se-destas-despesas-e-acabam-por-receber-menos-no-irs/",
    "https://4gnews.pt/apple-responde-finalmente-aos-oculos-inteligentes-ray-ban-da-meta-ja-em-2027-tudo-o-que-ja-sabemos/",
    "https://4gnews.pt/hyundai-kauai-2026-ensaio/",
    "https://4gnews.pt/eletricidade-falha-a-17-e-18-de-novembro-em-portugal-ve-locais-e-horarios/",
