@@ -43,18 +43,22 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50589618",
+   "https://news.ycombinator.com/item?id=50588982",
+   "https://news.ycombinator.com/item?id=50587875",
    "https://news.ycombinator.com/item?id=50583761",
    "https://news.ycombinator.com/item?id=50583274",
    "https://news.ycombinator.com/item?id=50581260",
    "https://news.ycombinator.com/item?id=50579568",
    "https://news.ycombinator.com/item?id=50579331",
    "https://news.ycombinator.com/item?id=50578358",
+   "https://news.ycombinator.com/item?id=50575644",
+   "https://news.ycombinator.com/item?id=50574968",
+   "https://news.ycombinator.com/item?id=50532613",
    "https://news.ycombinator.com/item?id=50577265",
    "https://news.ycombinator.com/item?id=50576232",
    "https://news.ycombinator.com/item?id=50576012",
-   "https://news.ycombinator.com/item?id=50574968",
    "https://news.ycombinator.com/item?id=50574383",
-   "https://news.ycombinator.com/item?id=50532613",
    "https://news.ycombinator.com/item?id=50581084",
    "https://news.ycombinator.com/item?id=50526023",
    "https://news.ycombinator.com/item?id=50572503",
@@ -303,6 +307,10 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1039554",
+   "https://www.theverge.com/?p=1039543",
+   "https://www.theverge.com/?p=1038463",
+   "https://www.theverge.com/?p=1038762",
    "https://www.theverge.com/?p=1038701",
    "https://www.theverge.com/?p=1039160",
    "https://www.theverge.com/?p=1038099",
@@ -456,6 +464,7 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1039554",
    "https://www.theverge.com/?p=1038701",
    "https://www.theverge.com/?p=1038099",
    "https://www.theverge.com/?p=1038892",
@@ -1190,6 +1199,13 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1144953",
+   "https://pplware.sapo.pt/?p=1154112",
+   "https://pplware.sapo.pt/?p=1153060",
+   "https://pplware.sapo.pt/?p=1154230",
+   "https://pplware.sapo.pt/?p=1154134",
+   "https://pplware.sapo.pt/?p=1154097",
+   "https://pplware.sapo.pt/?p=1150278",
    "https://pplware.sapo.pt/?p=1154086",
    "https://pplware.sapo.pt/?p=1154085",
    "https://pplware.sapo.pt/?p=1154069",
@@ -1210,7 +1226,6 @@
    "https://pplware.sapo.pt/?p=1153819",
    "https://pplware.sapo.pt/?p=1153923",
    "https://pplware.sapo.pt/?p=1153908",
-   "https://pplware.sapo.pt/?p=1150278",
    "https://pplware.sapo.pt/?p=1153893",
    "https://pplware.sapo.pt/?p=1153835",
    "https://pplware.sapo.pt/?p=1153904",
@@ -1383,6 +1398,13 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/wi-fi-8-esta-finalmente-a-chegar-e-traz-funcionalidade-que-muda-a-forma-como-usas-a-internet-em-casa/",
+   "https://4gnews.pt/teka-barista-steam-review/",
+   "https://4gnews.pt/4-smartwatches-aprovados-pela-4gnews-ainda-a-precos-de-black-friday/",
+   "https://4gnews.pt/google-mensagens-prepara-funcionalidade-genial-que-deixa-o-whatsapp-para-tras/",
+   "https://4gnews.pt/action-lanca-prenda-de-natal-perfeita-para-as-criancas-por-menos-de-12-euros/",
+   "https://4gnews.pt/comecaste-gta-6-ha-uma-dica-de-ouro-que-deves-conhecer/",
+   "https://4gnews.pt/a-steam-tem-8-novos-jogos-gratis-e-um-deles-e-muito-invulgar/",
    "https://4gnews.pt/black-friday-tablet-samsung-galaxy-tab-a11-esta-a-preco-de-saldo-na-amazon/",
    "https://4gnews.pt/muitos-portugueses-nao-sabem-mas-as-dividas-da-prestacao-da-casa-prescrevem-ao-fim-deste-prazo/",
    "https://4gnews.pt/netflix-prime-video-ou-disney-qual-deves-escolher-em-2026/",
@@ -1680,14 +1702,13 @@
  ],
  "ultima_dica_geral": "2026-11-21",
  "ordem_ai": [
-  6,
   10,
   9,
   11,
   2,
   4
  ],
- "ultima_dica_ai": "2026-11-20",
+ "ultima_dica_ai": "2026-11-21",
  "ordem_cursos": [
   2,
   10,
