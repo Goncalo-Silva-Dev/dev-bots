@@ -43,13 +43,17 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50597612",
    "https://news.ycombinator.com/item?id=50596133",
+   "https://news.ycombinator.com/item?id=50594911",
    "https://news.ycombinator.com/item?id=50591853",
    "https://news.ycombinator.com/item?id=50589618",
    "https://news.ycombinator.com/item?id=50588982",
    "https://news.ycombinator.com/item?id=50587875",
    "https://news.ycombinator.com/item?id=50587208",
+   "https://news.ycombinator.com/item?id=50583028",
    "https://news.ycombinator.com/item?id=50582069",
+   "https://news.ycombinator.com/item?id=50546587",
    "https://news.ycombinator.com/item?id=50579568",
    "https://news.ycombinator.com/item?id=50575644",
    "https://news.ycombinator.com/item?id=50583761",
@@ -191,6 +195,7 @@
    "https://news.ycombinator.com/item?id=50438261"
   ],
   "https://feeds.arstechnica.com/arstechnica/index": [
+   "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
    "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
    "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
    "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
@@ -312,6 +317,12 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1039732",
+   "https://www.theverge.com/?p=1038181",
+   "https://www.theverge.com/?p=1038879",
+   "https://www.theverge.com/?p=1039716",
+   "https://www.theverge.com/?p=1038713",
+   "https://www.theverge.com/?p=1039139",
    "https://www.theverge.com/?p=1039564",
    "https://www.theverge.com/?p=1039554",
    "https://www.theverge.com/?p=1039543",
@@ -470,6 +481,7 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1039139",
    "https://www.theverge.com/?p=1039554",
    "https://www.theverge.com/?p=1038701",
    "https://www.theverge.com/?p=1038099",
@@ -1206,6 +1218,15 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1154307",
+   "https://pplware.sapo.pt/?p=1154163",
+   "https://pplware.sapo.pt/?p=1154274",
+   "https://pplware.sapo.pt/?p=1154268",
+   "https://pplware.sapo.pt/?p=1154104",
+   "https://pplware.sapo.pt/?p=1154077",
+   "https://pplware.sapo.pt/?p=1154093",
+   "https://pplware.sapo.pt/?p=1154272",
+   "https://pplware.sapo.pt/?p=1154073",
    "https://pplware.sapo.pt/?p=1154266",
    "https://pplware.sapo.pt/?p=1149413",
    "https://pplware.sapo.pt/?p=1154179",
@@ -1408,6 +1429,16 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/google-mensagens-tem-5-truques-escondidos-que-tens-de-conhecer-ainda-hoje/",
+   "https://4gnews.pt/xiaomi-lanca-gadget-para-a-casa-que-espero-bem-que-chegue-a-portugal/",
+   "https://4gnews.pt/imt-deixa-serio-alerta-a-todos-os-condutores-portugueses/",
+   "https://4gnews.pt/5-filmes-series-incriveis-que-estrearam-agora-na-netflix-ve-aqui-o-trailer/",
+   "https://4gnews.pt/agua-falha-a-23-24-e-25-de-novembro-em-portugal-ve-todos-os-locais-e-as-horas/",
+   "https://4gnews.pt/black-friday-xiaomi-este-poco-tem-uma-bateria-gigante-e-por-menos-de-300/",
+   "https://4gnews.pt/eletricidade-falha-a-23-e-24-de-novembro-em-portugal-ve-locais-e-horarios/",
+   "https://4gnews.pt/renault-clio-vi-eco-g-ensaio/",
+   "https://4gnews.pt/lidl-lanca-coluna-bluetooth-retro-por-39-99-na-amazon-ha-uma-opcao-mais-barata/",
+   "https://4gnews.pt/arrependido-de-uma-compra-online-tens-14-dias-para-devolver-sem-dar-explicacoes/",
    "https://4gnews.pt/torreense-x-benfica-onde-ver-o-jogo-da-taca-de-portugal/",
    "https://4gnews.pt/google-keep-recebe-finalmente-a-funcionalidade-que-mais-falta-fazia-aos-utilizadores/",
    "https://4gnews.pt/as-6-definicoes-dos-auscultadores-bose-que-deves-mudar-ja/",
@@ -1692,7 +1723,6 @@
   ]
  },
  "ordem_geral": [
-  13,
   12,
   2,
   10,
@@ -1713,7 +1743,7 @@
   4,
   29
  ],
- "ultima_dica_geral": "2026-11-21",
+ "ultima_dica_geral": "2026-11-22",
  "ordem_ai": [
   10,
   9,
@@ -1723,7 +1753,6 @@
  ],
  "ultima_dica_ai": "2026-11-21",
  "ordem_cursos": [
-  2,
   10,
   4,
   6,
@@ -1743,5 +1772,5 @@
   11,
   21
  ],
- "ultimo_curso": "2026-11-21"
+ "ultimo_curso": "2026-11-22"
 }
