@@ -47,15 +47,20 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50627340",
+   "https://news.ycombinator.com/item?id=50624497",
+   "https://news.ycombinator.com/item?id=50622774",
    "https://news.ycombinator.com/item?id=50620349",
-   "https://news.ycombinator.com/item?id=50620102",
+   "https://news.ycombinator.com/item?id=50619207",
+   "https://news.ycombinator.com/item?id=50619103",
    "https://news.ycombinator.com/item?id=50617499",
-   "https://news.ycombinator.com/item?id=50615481",
    "https://news.ycombinator.com/item?id=50615308",
    "https://news.ycombinator.com/item?id=50614249",
    "https://news.ycombinator.com/item?id=50611576",
-   "https://news.ycombinator.com/item?id=50609685",
    "https://news.ycombinator.com/item?id=50606192",
+   "https://news.ycombinator.com/item?id=50620102",
+   "https://news.ycombinator.com/item?id=50615481",
+   "https://news.ycombinator.com/item?id=50609685",
    "https://news.ycombinator.com/item?id=50587439",
    "https://news.ycombinator.com/item?id=50616933",
    "https://news.ycombinator.com/item?id=50607668",
@@ -219,6 +224,13 @@
    "https://news.ycombinator.com/item?id=50438261"
   ],
   "https://feeds.arstechnica.com/arstechnica/index": [
+   "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+   "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+   "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+   "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+   "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
    "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
    "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
    "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
@@ -353,6 +365,13 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1041222",
+   "https://www.theverge.com/?p=1041227",
+   "https://www.theverge.com/?p=1041150",
+   "https://www.theverge.com/?p=1041164",
+   "https://www.theverge.com/?p=1040300",
+   "https://www.theverge.com/?p=1041034",
+   "https://www.theverge.com/?p=1040676",
    "https://www.theverge.com/?p=1041000",
    "https://www.theverge.com/?p=1040966",
    "https://www.theverge.com/?p=1026041",
@@ -538,6 +557,8 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1041222",
+   "https://www.theverge.com/?p=1041227",
    "https://www.theverge.com/?p=1040652",
    "https://www.theverge.com/?post_type=vm_stream&p=1030422",
    "https://www.theverge.com/?p=1040819",
@@ -629,6 +650,7 @@
    "https://www.theverge.com/?p=1030709"
   ],
   "https://huggingface.co/blog/feed.xml": [
+   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
    "https://huggingface.co/blog/allenai/robotrack",
    "https://huggingface.co/blog/agentic-evals",
    "https://huggingface.co/blog/inkling2mini",
@@ -639,7 +661,6 @@
    "https://huggingface.co/blog/moe-expert-streaming",
    "https://huggingface.co/blog/rumble-2-flash",
    "https://huggingface.co/blog/openrouter",
-   "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
    "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
    "https://huggingface.co/blog/3d-lora-finetuning",
@@ -1288,6 +1309,18 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1154755",
+   "https://pplware.sapo.pt/?p=1154437",
+   "https://pplware.sapo.pt/?p=1154746",
+   "https://pplware.sapo.pt/?p=1154606",
+   "https://pplware.sapo.pt/?p=1154253",
+   "https://pplware.sapo.pt/?p=1154588",
+   "https://pplware.sapo.pt/?p=1154664",
+   "https://pplware.sapo.pt/?p=1154654",
+   "https://pplware.sapo.pt/?p=1153235",
+   "https://pplware.sapo.pt/?p=1154614",
+   "https://pplware.sapo.pt/?p=1154567",
+   "https://pplware.sapo.pt/?p=1154646",
    "https://pplware.sapo.pt/?p=1154556",
    "https://pplware.sapo.pt/?p=1154345",
    "https://pplware.sapo.pt/?p=1154538",
@@ -1524,6 +1557,25 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/nem-12-custa-na-action-esta-e-a-prenda-de-natal-ideal-para-os-mais-novos/",
+   "https://4gnews.pt/antes-do-natal-este-roborock-traz-uma-funcionalidade-rara-por-um-preco-dificil-de-bater/",
+   "https://4gnews.pt/huawei-watch-air-e-oficial-com-design-ultrafino-e-construcao-em-titanio/",
+   "https://4gnews.pt/o-segredo-do-google-maps-que-te-salva-quando-ficas-sem-internet-e-nao-so/",
+   "https://4gnews.pt/rival-do-xiaomi-18-e-oficial-honor-700-estreia-bateria-monstruosa-e-ecra-traseiro/",
+   "https://4gnews.pt/o-galaxy-a38-vai-ganhar-bateria-mas-a-troca-que-a-samsung-fez-deixa-muito-a-desejar/",
+   "https://4gnews.pt/apple-comeca-2027-com-produtos-baratos-com-dois-equipamentos-muito-desejados/",
+   "https://4gnews.pt/esperaste-mais-de-15-anos-por-esta-comedia-iconica-estreia-em-portugal-esta-semana/",
+   "https://4gnews.pt/amazon-tem-prenda-de-natal-ideal-para-quem-gosta-de-voar-por-menos-de-50-euros/",
+   "https://4gnews.pt/nem-10-euros-custa-na-action-e-todos-deviam-ter-na-cozinha/",
+   "https://4gnews.pt/eletricidade-falha-a-25-26-e-27-de-novembro-em-portugal-ve-locais-e-horarios/",
+   "https://4gnews.pt/so-esta-semana-o-xiaomi-poco-f9-ultra-esta-ao-preco-da-chuva-na-amazon/",
+   "https://4gnews.pt/acer-nitro-v-16-ai-review-potencia-gaming-que-quase-nao-compromete/",
+   "https://4gnews.pt/promocoes-folheto-lidl/",
+   "https://4gnews.pt/samsung-galaxy-s27-com-arma-secreta-contra-burlas-que-vai-deixar-apple-e-google-para-tras/",
+   "https://4gnews.pt/o-melhor-da-amd-nvidia-e-msi-numa-so-torre-conhecemos-o-pcdiga-gaming-halo/",
+   "https://4gnews.pt/gta-6-no-pc-esta-fuga-pode-antecipar-a-versao-para-computadores/",
+   "https://4gnews.pt/ja-foi-revelado-o-novo-produto-da-nothing-e-esconde-uma-funcao-que-nao-estavas-a-espera/",
+   "https://4gnews.pt/byd-proibida-de-vender-este-carro-na-uniao-europeia-e-o-motivo-surpreende/",
    "https://4gnews.pt/ha-uma-rua-em-gta-6-que-os-portugueses-vao-querer-visitar/",
    "https://4gnews.pt/feyenoord-vs-fc-porto-onde-e-a-que-horas-ver-o-jogo-da-liga-dos-campeoes/",
    "https://4gnews.pt/esta-definicao-no-android-e-iphone-avisa-te-de-campainhas-e-ate-choros-de-bebe/",
@@ -1771,7 +1823,6 @@
    "https://4gnews.pt/promocoes-folheto-aldi/",
    "https://4gnews.pt/o-teu-spotify-premium-acabou-de-ganhar-uma-nova-funcao-em-portugal-sem-custos-extra/",
    "https://4gnews.pt/5-headsets-para-gaming-que-eu-compraria-sem-pensar-duas-vezes-e-todos-em-desconto/",
-   "https://4gnews.pt/promocoes-folheto-lidl/",
    "https://4gnews.pt/queres-uma-folga-para-jogar-gta-6-esta-empresa-decidiu-da-la-aos-funcionarios/",
    "https://4gnews.pt/subsidio-de-refeicao-em-cartao-isencao-de-irs-sobe-em-2027-sabe-quanto-vais-poupar/",
    "https://4gnews.pt/este-secador-de-roupa-portatil-da-cecotec-seca-tudo-e-esta-ao-melhor-preco/",
@@ -1805,25 +1856,7 @@
    "https://4gnews.pt/o-teu-dia-de-trabalho-de-8-horas-e-uma-ilusao-e-a-ciencia-diz-te-porque/",
    "https://4gnews.pt/ha-otimas-noticias-sobre-o-preco-do-gasoleo-e-da-gasolina-em-portugal/",
    "https://4gnews.pt/ha-uma-forma-de-teres-o-gta-6-completamente-gratis-e-eu-digo-te-como/",
-   "https://4gnews.pt/a-super-televisao-sem-reflexos-que-e-candidata-a-vencer-os-premios-4gnews/",
-   "https://4gnews.pt/black-friday-no-lidl-aspirador-vertical-rowenta-2-em-1-a-preco-de-saldo/",
-   "https://4gnews.pt/samsung-e-apple-preparam-dobraveis-maiores-para-2027com-a-guerra-a-aquecer/",
-   "https://4gnews.pt/black-friday-as-melhores-oportunidades-em-auriculares-e-smartwatches-para-aproveitar-ja/",
-   "https://4gnews.pt/xiaomi-novo-poco-x8s-chega-ao-melhor-preco-antes-da-black-friday/",
-   "https://4gnews.pt/um-dos-carros-eletricos-mais-baratos-do-ano-e-candidato-nos-premios-4gnews-2026/",
-   "https://4gnews.pt/mudancas-para-carros-eletricos-o-que-e-a-norma-euro-7-e-como-vai-afetar-os-condutores/",
-   "https://4gnews.pt/se-es-cliente-cgd-muito-cuidado-nunca-cliques-neste-link-e-fraude/",
-   "https://4gnews.pt/instalei-o-waze-pelo-gps-e-acabei-a-poupar-no-combustivel-e-eu-ensino-te-como/",
-   "https://4gnews.pt/custa-menos-de-17-na-action-e-traz-uma-funcao-reservada-aos-auriculares-mais-caros/",
-   "https://4gnews.pt/google-fotos-acaba-com-um-dos-problemas-que-mais-irritava-os-utilizadores/",
-   "https://4gnews.pt/ataque-a-worten-expos-dados-de-clientes-ve-como-te-proteger-de-burlas/",
-   "https://4gnews.pt/steam-corta-precos-ate-95-15-jogos-por-menos-de-5/",
-   "https://4gnews.pt/samsung-lanca-nova-opcao-para-guardar-fotografias-e-libertar-espaco-nos-galaxy/",
-   "https://4gnews.pt/compraste-a-ps5-pro-para-jogar-o-gta-6-pega-nos-lencos-temos-mas-noticias/",
-   "https://4gnews.pt/mb-way-cria-ja-este-cartao-na-app-antes-da-black-friday-poupa-te-dores-de-cabeca/",
-   "https://4gnews.pt/gta-6-melhores-produtos-gaming/",
-   "https://4gnews.pt/falhas-de-eletricidade-a-ecoflow-river-2-esta-por-menos-de-200-na-amazon/",
-   "https://4gnews.pt/xiaomi-escondeu-um-segredo-para-a-proxima-semana-e-vai-alem-do-novo-telemovel/"
+   "https://4gnews.pt/a-super-televisao-sem-reflexos-que-e-candidata-a-vencer-os-premios-4gnews/"
   ],
   "https://shifter.pt/feed/": [
    "https://shifter.pt/?p=216776",
@@ -1841,7 +1874,6 @@
   ]
  },
  "ordem_geral": [
-  2,
   10,
   27,
   15,
@@ -1860,15 +1892,13 @@
   4,
   29
  ],
- "ultima_dica_geral": "2026-11-23",
+ "ultima_dica_geral": "2026-11-24",
  "ordem_ai": [
-  11,
   2,
   4
  ],
- "ultima_dica_ai": "2026-11-23",
+ "ultima_dica_ai": "2026-11-24",
  "ordem_cursos": [
-  4,
   6,
   23,
   28,
@@ -1886,5 +1916,5 @@
   11,
   21
  ],
- "ultimo_curso": "2026-11-23"
+ "ultimo_curso": "2026-11-24"
 }
