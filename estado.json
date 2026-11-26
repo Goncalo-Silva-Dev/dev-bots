@@ -52,14 +52,18 @@
    "https://www.reddit.com/r/FreeUdemyCoupons/new/t3_1ltujwu"
   ],
   "https://hnrss.org/frontpage?points=250": [
+   "https://news.ycombinator.com/item?id=50651117",
+   "https://news.ycombinator.com/item?id=50649864",
    "https://news.ycombinator.com/item?id=50648050",
+   "https://news.ycombinator.com/item?id=50647673",
+   "https://news.ycombinator.com/item?id=50647181",
    "https://news.ycombinator.com/item?id=50646108",
    "https://news.ycombinator.com/item?id=50644817",
+   "https://news.ycombinator.com/item?id=50601280",
    "https://news.ycombinator.com/item?id=50643129",
    "https://news.ycombinator.com/item?id=50642086",
    "https://news.ycombinator.com/item?id=50641171",
    "https://news.ycombinator.com/item?id=50639698",
-   "https://news.ycombinator.com/item?id=50601280",
    "https://news.ycombinator.com/item?id=50638032",
    "https://news.ycombinator.com/item?id=50637220",
    "https://news.ycombinator.com/item?id=50634658",
@@ -407,6 +411,8 @@
    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
   ],
   "https://www.theverge.com/rss/index.xml": [
+   "https://www.theverge.com/?p=1043078",
+   "https://www.theverge.com/?p=1042620",
    "https://www.theverge.com/?p=1042938",
    "https://www.theverge.com/?p=1042870",
    "https://www.theverge.com/?p=1042221",
@@ -617,6 +623,7 @@
    "https://www.theverge.com/?p=1031889"
   ],
   "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": [
+   "https://www.theverge.com/?p=1042620",
    "https://www.theverge.com/?p=1042221",
    "https://www.theverge.com/?p=1042278",
    "https://www.theverge.com/?p=1042162",
@@ -718,10 +725,10 @@
    "https://www.theverge.com/?p=1030709"
   ],
   "https://huggingface.co/blog/feed.xml": [
+   "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
    "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
    "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
    "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-   "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
    "https://huggingface.co/blog/agentic-evals",
    "https://huggingface.co/blog/inkling2mini",
    "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -1377,8 +1384,18 @@
    "https://news.ycombinator.com/item?id=50388513"
   ],
   "https://pplware.sapo.pt/feed/": [
+   "https://pplware.sapo.pt/?p=1154998",
+   "https://pplware.sapo.pt/?p=1155004",
+   "https://pplware.sapo.pt/?p=1154943",
+   "https://pplware.sapo.pt/?p=1152522",
+   "https://pplware.sapo.pt/?p=1154995",
+   "https://pplware.sapo.pt/?p=1154990",
+   "https://pplware.sapo.pt/?p=1154933",
+   "https://pplware.sapo.pt/?p=1154952",
+   "https://pplware.sapo.pt/?p=1154973",
    "https://pplware.sapo.pt/?p=1154946",
    "https://pplware.sapo.pt/?p=1154909",
+   "https://pplware.sapo.pt/?p=1150278",
    "https://pplware.sapo.pt/?p=1153611",
    "https://pplware.sapo.pt/?p=1154934",
    "https://pplware.sapo.pt/?p=1154920",
@@ -1425,7 +1442,6 @@
    "https://pplware.sapo.pt/?p=1154393",
    "https://pplware.sapo.pt/?p=1154423",
    "https://pplware.sapo.pt/?p=1154506",
-   "https://pplware.sapo.pt/?p=1150278",
    "https://pplware.sapo.pt/?p=1154337",
    "https://pplware.sapo.pt/?p=1154366",
    "https://pplware.sapo.pt/?p=1154319",
@@ -1649,6 +1665,14 @@
    "https://pplware.sapo.pt/?p=1152226"
   ],
   "https://www.4gnews.pt/feed/": [
+   "https://4gnews.pt/candeeiro-da-action-tem-funcionalidade-rara-para-casa-inteligente-e-custa-menos-de-14/",
+   "https://4gnews.pt/melhores-filmes-para-ver-na-amazon-prime-em-portugal/",
+   "https://4gnews.pt/o-telemovel-xiaomi-mais-vendido-na-black-friday-e-uma-recomendacao-4gnews/",
+   "https://4gnews.pt/black-friday-alerta-serio-da-psp-para-quem-vai-fazer-compras-online/",
+   "https://4gnews.pt/a-powerbank-que-cabe-no-bolso-e-te-salva-a-tarde/",
+   "https://4gnews.pt/esta-marca-passa-despercebida-mas-este-telemovel-pode-ter-bateria-de-10000-mah/",
+   "https://4gnews.pt/vem-ai-mais-chuva-estes-6-desumidificadores-secam-a-casa-e-a-roupa/",
+   "https://4gnews.pt/whatsapp-ja-permite-agendar-mensagens-ve-como-funciona/",
    "https://4gnews.pt/dos-airpods-pro-3-ao-iphone-air-estes-5-produtos-apple-estao-mais-baratos-na-amazon/",
    "https://4gnews.pt/viktoria-plzen-x-benfica-onde-e-a-que-horas-ver-o-jogo-da-liga-europa/",
    "https://4gnews.pt/playstation-revela-os-jogos-gratis-de-dezembro-para-subscritores-da-ps-plus/",
@@ -1940,15 +1964,7 @@
    "https://4gnews.pt/muitos-portugueses-nao-sabem-mas-as-dividas-de-cartao-de-credito-prescrevem-apos-este-prazo/",
    "https://4gnews.pt/5-sugestoes-de-prendas-tech-com-descontos-ate-60-na-amazon/",
    "https://4gnews.pt/digi-ultrapassa-barreira-historica-em-portugal-e-ha-tres-novidades-que-os-clientes-vao-gostar/",
-   "https://4gnews.pt/amazon-prime-oferece-mais-2-jogos-gratis-de-pc-que-ja-podes-resgatar/",
-   "https://4gnews.pt/dongfeng-vigo-ensaio/",
-   "https://4gnews.pt/portugal-x-dinamarca-onde-e-a-que-horas-ver-gratis-o-jogo-da-liga-das-nacoes/",
-   "https://4gnews.pt/alerta-banco-de-portugal-quanto-dinheiro-fisico-devemos-guardar-em-casa-para-emergencias/",
-   "https://4gnews.pt/estes-auriculares-custam-14-95-na-action-e-trazem-algo-raro-neste-preco/",
-   "https://4gnews.pt/google-mensagens-vai-facilitar-a-procura-de-fotos-videos-e-links-partilhados/",
-   "https://4gnews.pt/playstation-surpreende-jogadores-com-anuncio-do-novo-god-of-war-para-ps4/",
-   "https://4gnews.pt/xiaomi-google-ou-samsung-5-propostas-com-ate-36-de-desconto-para-o-teu-proximo-telemovel/",
-   "https://4gnews.pt/eletricidade-vai-falhar-a-15-e-16-de-novembro-em-portugal-ve-locais-e-horarios/"
+   "https://4gnews.pt/amazon-prime-oferece-mais-2-jogos-gratis-de-pc-que-ja-podes-resgatar/"
   ],
   "https://shifter.pt/feed/": [
    "https://shifter.pt/?p=217001",
@@ -1967,7 +1983,6 @@
   ]
  },
  "ordem_geral": [
-  10,
   27,
   15,
   19,
@@ -1985,7 +2000,7 @@
   4,
   29
  ],
- "ultima_dica_geral": "2026-11-24",
+ "ultima_dica_geral": "2026-11-26",
  "ordem_ai": [
   2,
   4
